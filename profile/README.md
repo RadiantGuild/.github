@@ -1,13 +1,13 @@
 <center>
     <a href="https://radiantguild.com">
-        <img src="../images/brand-banner.png" style="margin-top: 20px;"></img>
+        <img src="https://github.com/RadiantGuild/.github/raw/master/images/brand-banner.png" style="margin-top: 20px;"></img>
     </a>
 </center>
 
 ---
 <center>
-    <a href="https://rad.gd/discord"><img src="../images/Discord-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
-    <a href="https://rad.gd/patreon"><img src="../images/Patreon-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
+    <a href="https://rad.gd/discord"><img src="https://github.com/RadiantGuild/.github/raw/master/images/Discord-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
+    <a href="https://rad.gd/patreon"><img src="https://github.com/RadiantGuild/.github/raw/master/images/Patreon-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
 </center>
 
 # Who are we
