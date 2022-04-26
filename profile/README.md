@@ -1,14 +1,18 @@
-<center>
+<p align="center">
     <a href="https://radiantguild.com">
-        <img src="https://github.com/RadiantGuild/.github/raw/master/images/brand-banner.png" style="margin-top: 20px;"></img>
+        <img src="./../images/brand-banner.png" style="margin-top: 20px; align: center;"></img>
     </a>
-</center>
+</p>
 
 ---
-<center>
-    <a href="https://rad.gd/discord"><img src="https://github.com/RadiantGuild/.github/raw/master/images/Discord-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
-    <a href="https://rad.gd/patreon"><img src="https://github.com/RadiantGuild/.github/raw/master/images/Patreon-Logo.png" width="32" alt="Discord Icon and Invite" style="padding:10px;"></img></a>
-</center>
+<p align="center">
+    <a href="https://rad.gd/discord">
+        <img src="./../images/Discord-Logo.png" width="32" alt="Discord Icon and Invite" style="margin:10px;"></img>
+    </a>
+    <a href="https://rad.gd/patreon">
+        <img src="./../images/Patreon-Logo.png" width="32" alt="Discord Icon and Invite" style="margin:10px;"></img>
+    </a>
+</p>
 
 # Who are we
 We are a group of developers (And artists) who are trying to make a change in the commonly followed trend that most if not all art platforms that try to be an alternative to Deviant Art. Ironically we are following the trend but hopfully break the trend where we shut down after a year or two.
