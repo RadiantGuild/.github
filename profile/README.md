@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://radiantguild.com">
-        <img src="./../images/brand-banner.png" style="margin-top: 20px; align: center;"></img>
+        <img src="../images/brand-banner.png" style="margin-top: 20px; align: center;"></img>
     </a>
 </p>
 
